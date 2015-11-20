@@ -94,7 +94,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="project.json" />
-    <None Include="电子墨水绘图板应用.docx" />
+    <None Include="电子墨水.docx" />
     <PRIResource Include="strings\zh-cn\resources.resw" />
     <PRIResource Include="strings\en\resources.resw" />
   </ItemGroup>
